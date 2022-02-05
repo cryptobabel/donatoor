@@ -7,5 +7,5 @@
 5. Paste 'donatoor' index.html contents into your newly created file
 6. Update the index.html with your information, bitcoin address, LN address, description and anything else you need
 7. Commit changes to your index.html 
-8. Click the "Publish repo" button in the top right corner.
-9. Give it about 10 minutes, then check your-username.github.io. Your website should be there!
+9. Give it about 10 minutes, then check your-username.github.io/<the name of the repository you created in step 2>. Your website should be there!
+10. View https://pages.github.com/ for more information 
